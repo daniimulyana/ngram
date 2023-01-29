@@ -3,6 +3,7 @@ package com.android.ngram_distance
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.android.ngram_distance.databinding.ActivityMainBinding
+import com.lion.ngram.NGram
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,6 +1,6 @@
-package com.android.ngram_distance
+package com.lion.ngram
 
-import com.android.ngram_distance.interfaces.NormalizedStringDistance
+import com.lion.ngram.interfaces.NormalizedStringDistance
 
 /**
  * N-Gram Similarity as defined by Kondrak, "N-Gram Similarity and Distance",
