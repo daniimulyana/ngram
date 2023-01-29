@@ -1,4 +1,4 @@
-package com.lion.ngram.interfaces
+package com.android.ngram_distance.interfaces
 
 import java.io.Serializable
 

@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ngram_distance"
 include ':app'
-include ':ngram'
