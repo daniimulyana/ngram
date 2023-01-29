@@ -1,6 +1,4 @@
-package com.android.ngram_distance
-
-import com.android.ngram_distance.interfaces.NormalizedStringDistance
+package com.lion.ngram_string
 
 /**
  * N-Gram Similarity as defined by Kondrak, "N-Gram Similarity and Distance",
@@ -17,7 +15,7 @@ import com.android.ngram_distance.interfaces.NormalizedStringDistance
 /**
  * Instantiate with default value for n-gram length (1).
  */
-class NGram : NormalizedStringDistance {
+class NGram : com.lion.ngram_string.interfaces.NormalizedStringDistance {
     private val n: Int
 
     /**
